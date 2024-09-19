@@ -56,6 +56,18 @@ I'm a dynamic **CSE (Cyber Security)** student at **MS Ramaiah Institute of Tech
 - **Smart Transport System**  
   Developed a tool to optimize travel routes using AI-based algorithms.
 
+- **Travel Optimizing Tool**  
+  Created a travel optimization tool to provide the most efficient routes using AI.
+
+- **Sign Language Translator Using Deep Learning**  
+  Designed a system using deep learning to translate sign language into text for easier communication.
+
+- **Doctor Optimization and Hospital Management System**  
+  Built a system to optimize doctor assignments and improve hospital management efficiency.
+
+- **E-Waste Management System**  
+  Developed a solution for efficient electronic waste management using AI and data analytics.
+
 ---
 
 ## Work Experience
@@ -82,5 +94,6 @@ I'm a dynamic **CSE (Cyber Security)** student at **MS Ramaiah Institute of Tech
 
 - **Email**: [dineshgokuldas1894@gmail.com](mailto:dineshgokuldas1894@gmail.com)
 - **LinkedIn**: [Dinesh Gokul Das](https://www.linkedin.com/in/dinesh-gokul-das-m-513791238/)
+- **Github**: [Dinidigo](https://github.com/Dinidigo).
 
 Feel free to check out my repositories and connect with me on LinkedIn. Let's collaborate on exciting projects!
