@@ -23,6 +23,20 @@ I'm a dynamic **CSE (Cyber Security)** student at **MS Ramaiah Institute of Tech
 
 ---
 
+## Work Experience
+
+- **ML Research Intern at CSIR-NAL (May 2024 - Aug 2024)**  
+  Worked on federated learning models with differential privacy, improving data security and achieving 94% accuracy.
+
+---
+
+## Education
+
+- **Bachelor of Engineering in Computer Science Engineering (Cyber Security)**  
+  MS Ramaiah Institute of Technology | Bangalore | Graduating in 2025
+
+---
+
 ## Professional Accomplishments
 
 - **Smart India Hackathon Finalist (2023)**  
@@ -70,19 +84,6 @@ I'm a dynamic **CSE (Cyber Security)** student at **MS Ramaiah Institute of Tech
 
 ---
 
-## Work Experience
-
-- **ML Research Intern at CSIR-NAL (May 2024 - Aug 2024)**  
-  Worked on federated learning models with differential privacy, improving data security and achieving 94% accuracy.
-
----
-
-## Education
-
-- **Bachelor of Engineering in Computer Science (Cyber Security)**  
-  MS Ramaiah Institute of Technology | Bangalore | Graduating in 2025
-
----
 
 ## Interests
 
